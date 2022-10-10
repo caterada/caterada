@@ -1,8 +1,14 @@
-### Hi there 👋
+### <h3 align=center>hello world, it's ai!</h3>
+
+🇺🇸 🇯🇵 🇲🇽 
 
 ![caterada's GitHub stats](https://github-readme-stats.vercel.app/api?username=caterada)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caterada&layout=compact)](https://github.com/caterada/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caterada&layout=compact)](https://github.com/caterada/)
+
+<h4>links</h4>
+https://www.linkedin.com/in/ai-terada/
+
 
 <!--
 **caterada/caterada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
