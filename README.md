@@ -1,8 +1,7 @@
-### <h3 align=center>Hello World, I'm Ai</h3>
+### <h2 align=center>Hello World, I'm Ai</h2>
 
 
-![Spoken Languages]
-🇺🇸 🇯🇵 🇲🇽 
+<h4>Spoken Languages: 🇺🇸 🇯🇵 🇲🇽 </h4>
 
 ![caterada's GitHub stats](https://github-readme-stats.vercel.app/api?username=caterada)
 
